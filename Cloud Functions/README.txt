@@ -1,0 +1,1 @@
+These functions are run on a cloud function API and called by the chatbot. These are included for your convenience, so you can see almost all the code we use. The only thing we haven't included in our Cloud folder for you is the IBM Watson Assistant code, as that is a product we used to create our product, and is closed source.
