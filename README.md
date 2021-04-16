@@ -3,9 +3,10 @@ A DM's best friend! This application can calculate EXP and difficulty for encoun
 
 
 # Set Up - Easy Install (Application)
-To install Dungeon Assistant, download DungeonAssistant.zip onto your PC and unzip it into your desired directory. Don't be scared of our files, this is a capstone project for a team of 4 students at Ohio State Univeristy, class is CSE 5914. IF youare still worried, you can check the source folder here in the repository. everything used in the zipped app is in there.
+To install Dungeon Assistant, download DungeonAssistant.zip onto your PC and unzip it into your desired directory. Don't be scared of our files, this is a capstone project for a team of 4 students at Ohio State Univeristy, class is CSE 5914. IF youare still worried, you can check the source folder here in the repository. everything used in the zipped app is in there. 
 
-Once you have unzipped the folder into the directory, run the executable. Thats it! Your assistant is up and ready to roll!
+Once you have unzipped the folder into the directory, run the executable, Dungeon Assistant.exe. Thats it! Your assistant is up and ready to roll!
+Note: Since we are not trusted publishers your anti-virus will not be happy with us!
 
 # Satisfaction Survey
 https://forms.gle/uo9tLXDiQzohG7s38
